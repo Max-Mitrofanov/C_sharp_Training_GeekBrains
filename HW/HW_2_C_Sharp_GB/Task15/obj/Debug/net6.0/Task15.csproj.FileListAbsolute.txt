@@ -1,0 +1,15 @@
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/bin/Debug/net6.0/Task15
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/bin/Debug/net6.0/Task15.deps.json
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/bin/Debug/net6.0/Task15.dll
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/bin/Debug/net6.0/Task15.pdb
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.dll
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/refint/Task15.dll
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.pdb
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/Users/maksimmitrofanov/Desktop/C_Sharp_GIKB/HW/HW_2_C_Sharp_GB/Task15/obj/Debug/net6.0/ref/Task15.dll
